@@ -1,7 +1,7 @@
 <p>A simple Gaming Blog Website designed in HTML, CSS & Bootstrap.
   
 </p>
-<details>#A glimpse of it:</details>
+## A glimpse of it:
 <summary>
-(./ss.png)
+![Basic Website Design](./ss.png)
 </summary>
