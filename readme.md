@@ -3,5 +3,5 @@
 </p>
 ## A glimpse of it:
 <summary>
-![Basic Website Design](./ss1.png)
+![Basic Website Design] (./ss1.png)
 </summary>
