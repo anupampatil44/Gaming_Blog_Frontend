@@ -3,6 +3,5 @@
 </p>
 <details>#A glimpse of it:</details>
 <summary>
-![](./ss.png)
-
+(./ss.png)
 </summary>
