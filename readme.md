@@ -1,4 +1,4 @@
-#Gaming Website Frontend:
+# Gaming Website Frontend:
 
 - Done in HTML, CSS & Bootstrap.
 - __Link to view:__ [Click Here](https://anupampatil44.github.io/gaming_blog_frontend.github.io/)
