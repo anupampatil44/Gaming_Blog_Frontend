@@ -4,5 +4,5 @@
 - __Link to view:__ [Click Here](https://anupampatil44.github.io/gaming_blog_frontend.github.io/)
 
 __Glimpses of the website:__
-![Alt text](ss1.png)
 ![Alt text](ss.png)
+![Alt text](ss1.png)
